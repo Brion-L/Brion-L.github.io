@@ -37,7 +37,7 @@ The ponzi scheme is often referred to as pyramid scheme,
 because to pay the "higher floor" investors with a profit, a
 larger, "lower floor" has to be created, like in the picture below.
 
-![](media/image1.jpg)
+![IMG-1]./(media/image1.jpg)
 
 *https://sperrinlaw.net/financial-crime-fraud/ponzi-fraud/*
 
@@ -113,9 +113,9 @@ include terms like "tiered referral rewards."
 The two images below are tiered referral reward system diagrams taken
 from Ponzi scheme websites:
 
- ![](media/image2.jpg)
+ ![IMG-2](./media/image2.jpg)
 
- ![](media/image3.jpg)
+ ![IMG-3](./media/image3.jpg)
 
 
 3. These schemes usually disguise themselves as **staking or mining**
@@ -187,7 +187,7 @@ contracts by using some code snippets as examples.
  This is also the difference between Ponzi schemes and regular
  mining/staking contracts.
 
- ![](media/image4.jpg)
+ ![IMG-4](./media/image4.jpg)
 
 2.  **Dividends are calculated based on a fixed daily returns ROI and
     time.**
@@ -196,7 +196,7 @@ contracts by using some code snippets as examples.
     for the user's deposit plan by the time elapsed. Typically, the
     daily return ROI is a hard-coded value or constant.
 
- ![](media/image5.jpg)
+ ![IMG-5](./media/image5.jpg)
 
 
 
@@ -209,14 +209,14 @@ contracts by using some code snippets as examples.
     reward mechanism, with first, second, and third-level referrers
     receiving referral rewards at a ratio of 9:2:1.
 
- ![](media/image6.jpg)
+ ![IMG-6](./media/image6.jpg)
 
  Of course, the referral rewards come from the principal investment of
  later investors. As can be seen, the invest function in the code
  distributes part of the user's investment amount to all referrers at
  their respective levels.
 
- ![](media/image7.jpg)
+ ![IMG-7](./media/image7.jpg)
 
 
 
@@ -227,9 +227,9 @@ contracts by using some code snippets as examples.
     are new users, regardless of how much money remains in the
     pool.
 
- ![](media/image8.jpg)
+ ![IMG-8](./media/image8.jpg)
 
- ![](media/image9.jpg)
+ ![IMG-9](./media/image9.jpg)
 
 
  However, sometimes the project party does not directly impose a tax
@@ -367,16 +367,16 @@ through https://dappbay.bnbchain.org/risk-scanner using the contract
 address. Dappbay's scanner is technically supported by HashDit, which
 has integrated various recognition rules for Ponzi schemes.
 
-![](media/image10.jpg)
+![IMG-10](./media/image10.jpg)
 
-![](media/image11.jpg)
+![IMG-11](./media/image11.jpg)
 
 You can also search on the Dappbay website
 (https://dappbay.bnbchain.org/r) based on the Dapp's name, Twitter,
 website, etc., to see if the project has been marked as significant
 risk.
 
-![](media/image12.jpg)
+![IMG-12](./media/image12.jpg)
 
 Additionally, you can follow HashDit's X
 (https://twitter.com/HashDit). HashDit continuously monitors data on the
