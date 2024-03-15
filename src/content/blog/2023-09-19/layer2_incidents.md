@@ -1,9 +1,9 @@
 ---
 slug: Layer2-Security-Report
 title: Security First in opBNB, Learnt from Layer 2 Incidents
-heroImage: '../../../assets/images/bg.jpg'
+heroImage: '../../../assets/images/incident-report-general.png'
 description: 'Security First in opBNB, Learnt from Layer 2 Incidents'
-pubDate: 'Sep 19 2024'
+pubDate: 'Sep 19 2023'
 authors: [Sebastian]
 tags: ['Layer2', 'opBNB', 'Optimism', 'Arbitrum', 'Avalanche', 'BASE', '2023']
 category: Reports
