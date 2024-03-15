@@ -4,6 +4,7 @@ import ListPosts from '@/components/ListPosts'
 import TitlePage from '@/components/TitlePage'
 import BaseLayout from '@/layouts/BaseLayout'
 import { getPosts } from '@/utils'
+import yourIcon from '@/assets/twitter-avatar.png'
 
 const MAX_POSTS = 6 // max number of posts to show on the home page
 const posts = await getPosts(MAX_POSTS)
@@ -11,6 +12,7 @@ const posts = await getPosts(MAX_POSTS)
 
 <BaseLayout title='Home'>
 	<TitlePage title='HashDit Blogs' />
+	<img src={yourIcon} />
 	<ListCategories />
 
 	<div>
