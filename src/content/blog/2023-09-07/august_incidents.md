@@ -1,11 +1,11 @@
 ---
 slug: BSC-August-Security-Report
-title: BNB Smart Chain Monthly Incident Report August 2023 - 60% drop of total incident amounts
+title: BSC Monthly Incident Report August 2023
 heroImage: '../../../assets/images/bg.jpg'
-description: 'BNB Smart Chain Monthly Incident Report August 2023 - 60% drop of total incident amounts'
+description: 'BSC Incident Report August 2023 - 60% drop'
 pubDate: 'Sep 7 2023'
 authors: [Sebastian]
-tags: ['BSC', 'Incident Report', '2023']
+tags: ['BSC', 'Incident Report', 'Monthly Report', '2023']
 category: Reports
 ---
 <div align="justify">
