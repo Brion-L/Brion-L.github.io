@@ -1,7 +1,7 @@
 ---
 slug: Layer2-Security-Report
 title: Security First in opBNB, Learnt from Layer 2 Incidents
-heroImage: '../../../assets/images/incident-report-general.png'
+heroImage: '../../../assets/images/incident-report-layer2.png'
 description: 'Security First in opBNB, Learnt from Layer 2 Incidents'
 pubDate: 'Sep 19 2023'
 authors: [Sebastian]
