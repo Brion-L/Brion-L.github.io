@@ -2,7 +2,7 @@
 slug: BSC-August-Security-Report
 title: Monthly Incident Sharing - August 2023 BSC
 heroImage: '../../../assets/images/incident-sharing-aug2023.png'
-description: 'BSC Incident Report August 2023 - 60% drop'
+description: 'August incident loss drops 60% compared to July'
 pubDate: 'Sep 7 2023'
 authors: [Sebastian]
 tags: ['BSC', 'Incident Report', 'Monthly Report', '2023']
