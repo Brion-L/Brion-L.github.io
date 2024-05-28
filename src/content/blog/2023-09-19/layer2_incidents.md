@@ -2,7 +2,7 @@
 slug: Layer2-Security-Report
 title: Security First in opBNB, Learnt from Layer 2 Incidents
 heroImage: '../../../assets/images/incident-report-layer2.png'
-description: 'Do hacks operate differently on Layer 2 chains? Read more to find out!'
+description: "Do hacks operate differently on Layer 2 chains? Read more to find out!"
 pubDate: 'Sep 19 2023'
 authors: [Sebastian]
 tags: ['Layer2', 'opBNB', 'Optimism', 'Arbitrum', 'Avalanche', 'BASE', '2023']

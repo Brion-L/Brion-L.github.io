@@ -2,7 +2,7 @@
 slug: Gas-Mint-Scam-2023
 title: Gas Mint Scam
 heroImage: '../../../assets/images/gas-mint-scam.jpg'
-description: 'Interacting with a suspicious token may result in your BNB funds being stolen! Read more to learn how it happens'
+description: "Interacting with a suspicious token may result in your BNB funds being stolen! Read more to learn how it happens"
 pubDate: 'October 19 2023'
 authors: [Sebastian]
 tags: ['GasMint', 'Scam', '2023']
