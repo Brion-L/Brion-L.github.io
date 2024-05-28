@@ -1,7 +1,7 @@
 ---
 slug: ponzi-schemes-in-web3
 title: Ponzi Schemes in Web3 ---- Swamps in the Dark
-heroImage: '../../../assets/images/ponzi-web3.jpg'
+heroImage: '../../../assets/images/ponzi-web3.png'
 description: "How to look out for signs of obvious ponzi projects and stay safe!"
 pubDate: 'Aug 28 2023'
 authors: [Chris, Lukasz]
